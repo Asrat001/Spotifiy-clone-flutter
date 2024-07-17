@@ -5,4 +5,4 @@ MVVM architecture
 Bloc State Manager
 Firebase as a Backend
 
-[Demo](./demo.gif)
+![GIF Preview](./demo.gif)
